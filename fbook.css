@@ -1,0 +1,54 @@
+body{
+    background-color:rgb(244, 239, 239) ;
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+    height: 200px;
+    width: 200px;   
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+           /* background-color: rgb(19, 18, 18); */
+           margin: 0px;
+           padding: 0px;
+           border-radius: 20px;
+           
+       }
+
+h1{
+    text-align: center;
+    color: blue;
+
+}
+h2{
+    text-align: center;
+    
+}
+
+.section-1{
+
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    /* background-color: black; */
+    justify-content: center;
+    width: 400px;
+    
+     
+}
+.submit{
+   background-color: #1877f2;
+   width: 40%;
+   
+}
+a{
+    text-decoration: none;
+   
+}
