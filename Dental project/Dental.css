@@ -697,6 +697,10 @@ padding-bottom: 40px;
     box-shadow: 5px 1px 17px black;
     width: 270px;
     margin-left: 50px;
+    justify-content: center;
+    display: flex;
+    
+
  
     
 }
