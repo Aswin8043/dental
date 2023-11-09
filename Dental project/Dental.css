@@ -696,13 +696,11 @@ padding-bottom: 40px;
     height: 140px;
     box-shadow: 5px 1px 17px black;
     width: 270px;
-    margin-left: 50px;
+    margin-left: 100px;
     justify-content: center;
-    display: flex;
-    
-
- 
-    
+    display: flex;      
 }
-
-
+.finalimg{
+    width: 50px;
+    margin-left: 54px; 
+}
