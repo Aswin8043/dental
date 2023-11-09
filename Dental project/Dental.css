@@ -709,7 +709,7 @@ padding-bottom: 40px;
 }
 .finalimg{
     width: 58px;
-    margin-left: 88px;
+    margin-left: 96px;
      margin-bottom: 20px;
      padding-top: 10px;
 }
@@ -723,5 +723,14 @@ padding-bottom: 40px;
     margin-left: 85px;
 }
 .lastpara{
-    margin-left: 64px;
+    margin-left: 28px;
+    color: #0f95ca;
+}
+.lastpara-1{
+    margin-left: 62px;
+    color: #0f95ca;
+}
+.the-end{
+    display: flex;
+    padding-top: 30px; 
 }
