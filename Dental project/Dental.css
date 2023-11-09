@@ -743,10 +743,17 @@ padding-bottom: 40px;
 .the-end{
     display: flex;
     padding-top: 50px; 
+    margin-left: 100px;
+}
+.contact-info{
+    font-size: 60px;
 }
 .end-section{
     padding-top: 20px;
+    
+
 }
 .end-section-1{
     padding-top: 20px;
+    padding-bottom: 40px;
 }
