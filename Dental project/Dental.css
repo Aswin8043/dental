@@ -698,15 +698,30 @@ padding-bottom: 40px;
     width: 100%;
     justify-content: center;  
     display: flex;  
+    /* margin-left: 20px; */
       
 }
 .final-section-1{
     box-shadow: 5px 1px 17px black;
-    width: 180px;
-    height: 180px; 
+    width: 270px;
+    height: 190px;
+    margin-left: 100px;
 }
 .finalimg{
-    width: 55px;
-    margin-left: 54px;
+    width: 58px;
+    margin-left: 88px;
      margin-bottom: 20px;
+     padding-top: 10px;
+}
+.Services-1{
+    margin-left: 33px;
+}
+.Services-2{
+    margin-left: 54px;
+}
+.Services-3{
+    margin-left: 85px;
+}
+.lastpara{
+    margin-left: 64px;
 }
