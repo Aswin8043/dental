@@ -693,13 +693,17 @@ padding-bottom: 40px;
 }
 
 .finalpart-3{
-    /* height: 140px; */
-    box-shadow: 5px 1px 17px black;
-    width: 270px;
-    margin-left: 100px;
-    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 100%;
+    justify-content: center;  
     display: flex;  
       
+}
+.final-section-1{
+    box-shadow: 5px 1px 17px black;
+    width: 180px;
+    height: 180px; 
 }
 .finalimg{
     width: 55px;
