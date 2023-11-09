@@ -730,7 +730,23 @@ padding-bottom: 40px;
     margin-left: 62px;
     color: #0f95ca;
 }
+
+
+
+
+
+/* the end ::part */
+
+
+
+
 .the-end{
     display: flex;
-    padding-top: 30px; 
+    padding-top: 50px; 
+}
+.end-section{
+    padding-top: 20px;
+}
+.end-section-1{
+    padding-top: 20px;
 }
