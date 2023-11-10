@@ -708,33 +708,22 @@ padding-bottom: 40px;
 }
 .final-section-1{
     box-shadow: 5px 1px 17px black;
-    width: 325px;
+    width: 321px;
     height: 190px;
     margin-left: 100px;
+    text-align: center;
 
 }
 .finalimg{
     width: 58px;
-    margin-left: 96px;
      margin-bottom: 20px;
      padding-top: 10px;
      
 }
-.Services-1{
-    margin-left: 33px;
-}
-.Services-2{
-    margin-left: 54px;
-}
-.Services-3{
-    margin-left: 85px;
-}
 .lastpara{
-    margin-left: 28px;
     color: #0f95ca;
 }
 .lastpara-1{
-    margin-left: 62px;
     color: #0f95ca;
 }
 
@@ -777,8 +766,9 @@ padding-bottom: 40px;
 .end-section-1 textarea{
     width: 550px;
     height: 130px;
-    padding-top: 20px;
-    box-shadow: 0px 4px 0px 0px #5dd0ed
+    box-shadow: 4px 4px 8px #313434;
+    border: none;
+    border-bottom: 4px solid #5dd0ed;
 }
 .end-button{
     width: 110px;
