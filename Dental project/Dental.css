@@ -783,3 +783,20 @@ padding-bottom: 40px;
     justify-content: center;
     font-size: 20px;
 }
+.the-end-1{
+    /* display: flex; */
+    margin-left: 100px;
+    width:623px;
+}
+.end-part-1 h3{
+    font-size: 50px;
+}
+.end-part-2{
+    font-size: 30px;
+
+}
+.end-paragraph{
+    font-size: 26px;
+    line-height: 42px;
+    color: rgb(157 150 142);
+}
