@@ -347,7 +347,8 @@ button{
     background: linear-gradient(to bottom, black,rgb(58, 186, 229)  );
     display: flex;
     justify-content: center;
-    
+    padding-top: 25px;
+    padding-bottom: 25px;
 }
 .heading-1 h3{
     display: flex;
@@ -707,15 +708,17 @@ padding-bottom: 40px;
 }
 .final-section-1{
     box-shadow: 5px 1px 17px black;
-    width: 270px;
+    width: 325px;
     height: 190px;
     margin-left: 100px;
+
 }
 .finalimg{
     width: 58px;
     margin-left: 96px;
      margin-bottom: 20px;
      padding-top: 10px;
+     
 }
 .Services-1{
     margin-left: 33px;
@@ -754,18 +757,22 @@ padding-bottom: 40px;
     color:#0a2740e6;
 }
 .end-section{
-    padding-top: 20px;
+    padding-top: 33px;
 }
 .end-section-1{
-    padding-top: 20px;
+    padding-top: 33px;
     padding-bottom: 40px;
 }
 .end-section input{
     width: 550px;
     height: 57px;
-    box-shadow: 0px 4px 0px 0px #5dd0ed;
+    box-shadow: 4px 4px 8px #313434 ;
     border: none;
-
+    border-bottom: 4px solid #5dd0ed;
+}
+.end-section input:focus{
+    
+    outline: none;
 }
 .end-section-1 textarea{
     width: 550px;
@@ -773,23 +780,23 @@ padding-bottom: 40px;
     padding-top: 20px;
     box-shadow: 0px 4px 0px 0px #5dd0ed
 }
-.button{
+.end-button{
     width: 110px;
     height: 42px;
     color: #ffffff;
-    background-color: #0f95ca;
+    background-color: #244552;;
     border-radius: 13px 13px 13px 13px;
     align-items: center;
     justify-content: center;
     font-size: 20px;
 }
 .the-end-1{
-    /* display: flex; */
     margin-left: 100px;
     width:623px;
 }
 .end-part-1 h3{
     font-size: 50px;
+    padding-bottom: 10px;
 }
 .end-part-2{
     font-size: 30px;
@@ -799,4 +806,10 @@ padding-bottom: 40px;
     font-size: 26px;
     line-height: 42px;
     color: rgb(157 150 142);
+}
+.end-ul-part{
+    color: rgb(157 150 142);
+    line-height: 30px;
+    line-height: 60px;
+    font-size: 20px;
 }
