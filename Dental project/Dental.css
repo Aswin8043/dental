@@ -507,10 +507,14 @@ button{
     padding-left: 6px;
 }
 footer{
-    padding: 20px;
+    height: 99px;
+    display: flex;
+    /* padding: 20px; */
     color: #ffffff;
     background-color: #0f95ca;
-    text-align: center;
+    /* text-align: center; */
+    align-items: center;
+    justify-content: center;
 }
 .end{
     color:black;
@@ -693,7 +697,7 @@ padding-bottom: 40px;
 }
 
 .finalpart-3{
-    margin-top: 30px;
+    margin-top: 70px;
     margin-bottom: 30px;
     width: 100%;
     justify-content: center;  
@@ -750,10 +754,17 @@ padding-bottom: 40px;
 }
 .end-section{
     padding-top: 20px;
-    
-
 }
 .end-section-1{
     padding-top: 20px;
     padding-bottom: 40px;
+}
+.end-section input{
+    width: 550px;
+    height: 57px;
+
+}
+.end-section-1 textarea{
+    width: 550px;
+    height: 130px;
 }
